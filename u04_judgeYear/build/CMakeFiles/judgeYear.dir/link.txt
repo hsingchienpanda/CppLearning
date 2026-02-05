@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/judgeYear.dir/judgeYear.cpp.o -o judgeYear 

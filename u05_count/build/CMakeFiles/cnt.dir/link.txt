@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/cnt.dir/cnt.cpp.o -o cnt 

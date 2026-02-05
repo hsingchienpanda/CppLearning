@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/u01_data_type.dir/DataType.cpp.o -o u01_data_type 

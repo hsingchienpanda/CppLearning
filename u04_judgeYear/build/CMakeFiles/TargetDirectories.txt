@@ -1,0 +1,3 @@
+/home/xq/Cpp/u04_judgeYear/build/CMakeFiles/judgeYear.dir
+/home/xq/Cpp/u04_judgeYear/build/CMakeFiles/edit_cache.dir
+/home/xq/Cpp/u04_judgeYear/build/CMakeFiles/rebuild_cache.dir
