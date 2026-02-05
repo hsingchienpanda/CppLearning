@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/xq/Cpp/u00_HelloWorld/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/u00_HelloWorld.dir/HelloWorld.cpp.o -c /home/xq/Cpp/u00_HelloWorld/HelloWorld.cpp",
+  "file": "/home/xq/Cpp/u00_HelloWorld/HelloWorld.cpp"
+}
+]
