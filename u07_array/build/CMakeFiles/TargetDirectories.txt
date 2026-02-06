@@ -1,0 +1,3 @@
+/home/xq/Cpp/CppLearning/u07_array/build/CMakeFiles/array.dir
+/home/xq/Cpp/CppLearning/u07_array/build/CMakeFiles/edit_cache.dir
+/home/xq/Cpp/CppLearning/u07_array/build/CMakeFiles/rebuild_cache.dir
